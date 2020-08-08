@@ -1,0 +1,30 @@
+body{
+    background-color: #ffcccc; 
+    
+}
+nav{
+    border: 1px solid black; 
+    text-align: center;
+    background: #330000;
+    
+}
+nav li{
+    display: inline;
+    padding: 40px;
+    
+}
+form{
+    text-align: center;
+}
+check{
+    width: 300px;
+    padding: 10px;
+     border-radius: 20px;
+}
+footer{
+    text-align: center; 
+    padding: 15px;
+    width: 500px;
+    
+    
+}
